@@ -1,0 +1,19 @@
+body{background-color: blueviolet;
+    text-align:center ; 
+    font-family:'Times New Roman', Times, serif ;font: size 30px;
+
+}
+h1{background-color: black;
+color: aliceblue;
+;}
+img{
+    width: 250PX;
+    border-radius: 50%;
+}
+h2{
+    text-align:center ;
+    border:solid ;
+    border-radius:90% ;
+
+
+}
